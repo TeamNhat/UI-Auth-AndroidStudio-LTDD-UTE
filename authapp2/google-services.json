@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144513986570",
+    "project_id": "auth-app-ad899",
+    "storage_bucket": "auth-app-ad899.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144513986570:android:12fd6be84d7b5c50d9aff3",
+        "android_client_info": {
+          "package_name": "com.tngocnhat.authapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh5zORwAxVfmFa8pL06NfHCIiH03lJDzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
